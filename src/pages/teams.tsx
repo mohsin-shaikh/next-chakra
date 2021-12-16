@@ -1,11 +1,11 @@
 import {
-    VStack, 
-    HStack, 
-    Flex, 
-    useDisclosure, 
-    Input, 
-    Menu, 
-    MenuButton, 
+    VStack,
+    HStack,
+    Flex,
+    useDisclosure,
+    Input,
+    Menu,
+    MenuButton,
     MenuList,
     MenuItem,
     MenuGroup,
@@ -57,7 +57,7 @@ const Teams = () => {
                     maxW={{ base: 'xs', xl: 'sm' }}
                     display={{ base: 'none', lg: 'flex' }}
                     w='full'
-                    // bg='gray'
+                // bg='gray'
                 >
                 </Flex>
                 <Flex
@@ -79,7 +79,7 @@ const Teams = () => {
                     <Box>
                         <IconButton
                             aria-label="Toggle dark mode"
-                            icon={colorMode === 'light' ? <FiMoon/> : <FiSun/>}
+                            icon={colorMode === 'light' ? <FiMoon /> : <FiSun />}
                             onClick={toggleColorMode}
                             mr='4'
                         >
