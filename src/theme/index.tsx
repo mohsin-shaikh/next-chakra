@@ -8,7 +8,7 @@ import { ThemeProvider } from "theme/context";
 import { useEffect, useMemo, useState } from "react";
 
 
-const choc = {
+const zuupee = {
   bg: "#1A202C",
   primary: "#2D3748",
   secondary: "#4A5567",
@@ -24,7 +24,7 @@ const Theme = (props: any) => {
   const [brand, setBrand] = useState("default");
 
   const overrides: ThemeOverride = {
-    colors: { brand: presets(brand), choc },
+    colors: { brand: presets(brand), zuupee },
     config,
     layerStyles,
     styles,
