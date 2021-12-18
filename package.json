@@ -28,7 +28,6 @@
   "name": "next-chakra",
   "description": "Next JS project with Chakra UI",
   "version": "1.0.0",
-  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mohsin-shaikh/next-chakra.git"
