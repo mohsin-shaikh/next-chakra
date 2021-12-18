@@ -1,3 +1,3 @@
-# TypeScript + Next.js + Chakra UI example
+# DEV
 
-Changes in Dev branch.
+# TypeScript + Next.js + Chakra UI example
