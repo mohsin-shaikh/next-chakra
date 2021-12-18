@@ -26,7 +26,7 @@
     "typescript": "4.0"
   },
   "name": "next-chakra",
-  "description": "Commit from other account",
+  "description": "Next JS project with Chakra UI",
   "version": "1.0.0",
   "main": "index.js",
   "repository": {
